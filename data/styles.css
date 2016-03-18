@@ -10,6 +10,13 @@
 .paragraph {
   text-align:left;
 }
+.text_link {
+  color:#0000FF;
+}
+.text_link_mouse_over {
+}
+.text_link_mouse_down {
+}
 .text_area {
   color:#000000;
   text-align:left;
